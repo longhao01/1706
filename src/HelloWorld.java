@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("HelloWorld" );
         System.out.println("测试版本冲突");
         System.out.println("测试分支");
+        System.out.println("寻找出路");
     }
 }
